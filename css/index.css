@@ -8,19 +8,21 @@ body{
     background-size: cover;
     background-repeat: repeat-y;
     color: white;
+
 }
-#wrapper{
+#container{
     background-color: blueviolet;
-    opacity: 0.5;
+    
 }
 #container{
     opacity: 1;
     font-size: bolder;
     padding: 20px;
     margin: 20px;
-    width: 80%;
+    width: 90%;
     text-align: center;
     font: bolder;
+    font-weight: bolder;
 }
 
 button{

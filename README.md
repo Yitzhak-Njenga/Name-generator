@@ -5,5 +5,5 @@
 ## TECHNOLOGY USED
 * Html
 * Css
-* Boo
+* Bootstrap
 ### Copyright 2020 All Right Reserved

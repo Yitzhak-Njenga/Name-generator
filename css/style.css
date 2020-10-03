@@ -36,7 +36,7 @@ input[type=number], select {
   }
 
   
-input[type=submit] {
+.button{
     width: 100%;
     background-color: rebeccapurple;
     color: white;
@@ -46,10 +46,10 @@ input[type=submit] {
     border-radius: 4px;
     cursor: pointer;
     width: 30%;
-    margin-left: 30% ;
+    margin-left: 0% ;
   }
   
-input[type=submit]:hover {
+.button:hover {
     border-radius: 50px;
     background: #55b9f3;
     box-shadow:  20px 20px 60px #489dcf, 
