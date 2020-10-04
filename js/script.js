@@ -30,6 +30,24 @@ function getAkanName(){
             }
             else {
                 document.getElementById('message').innerHTML = "<div>Please select a Gender</div>";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
             }
         }
     }
