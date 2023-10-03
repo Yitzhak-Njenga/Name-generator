@@ -6,4 +6,5 @@
 * Html
 * Css
 * Bootstrap
+* JS
 ### Copyright 2020 All Right Reserved
